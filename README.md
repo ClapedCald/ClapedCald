@@ -8,7 +8,7 @@ Currently working at Amazon while pursuing an Associate of Science in Computer I
 
 ## Certifications
 
-- AWS Cloud Practitioner
+- AWS Knowledge: Cloud Essentials – Training Badge
 - CompTIA A+
 
 ## Core Technologies
